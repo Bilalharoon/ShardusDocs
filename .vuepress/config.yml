@@ -1,0 +1,13 @@
+title: "Hello Title"
+description: "Just playing around"
+
+themeConfig:
+  smoothScroll: true
+  nav:
+    - text: Home
+      link: "/"
+    - text: About
+      link: "/about"
+  sidebar:
+    - "/"
+    - "/about.html"
