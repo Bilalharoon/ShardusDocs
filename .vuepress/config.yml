@@ -7,7 +7,7 @@ themeConfig:
     - text: Home
       link: "/"
     - text: About
-      link: "/about"
+      link: "/about/"
   sidebar:
     - "/"
-    - "/about.html"
+    - "/about/"
